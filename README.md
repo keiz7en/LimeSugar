@@ -23,7 +23,7 @@ Built with Flutter for Android & Windows.
 | Platform | Download | Requirements |
 |:---:|:---:|:---|
 | **Android (universal)** | [![Download Android](https://img.shields.io/badge/Download%20APK-69%20MB-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/keiz7en/LimeSugar/releases/download/v0.1.3-beta/LimeSugar-v0.1.3-beta-universal.apk) | Android 5.0+ (API 21) |
-| **Windows** | [![Download Windows](https://img.shields.io/badge/Download%20ZIP-32%20MB-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/keiz7en/LimeSugar/releases/download/v0.1.3-beta/LimeSugar-v0.1.3-beta-windows.zip) | Windows 10/11 (x64) |
+| **Windows** | [![Download Windows](https://img.shields.io/badge/Download%20Installer-25%20MB-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/keiz7en/LimeSugar/releases/download/v0.1.3-beta/LimeSugar-v0.1.3-beta-windows-setup.exe) | Windows 10/11 (x64) |
 
 > **Note:** Per-ABI Android APKs (arm64-v8a, armeabi-v7a, x86_64) are also in the release assets. macOS, iOS, Linux and Web builds coming soon.
 
